@@ -1,10 +1,10 @@
 # Site settings
-title: 睿可的博客
-SEOTitle: 吕睿可的人生的代码局部映射
+title: Ich Bin Von Gott
+SEOTitle: Rick's blog
 header-img: img/post-bg-desk.jpg
 email: lvruike1999@163.com
 description: "我来自于神也将回归于神。"
-keyword: "电力系统, 电力市场, 区块链, 恋爱"
+keyword: "electrical engineering, love"
 url: "https://rick10119.github.io"          # your host, for absolute URL
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
 github_repo: "https://github.com/Rick10119/Rick10119.github.io.git" # you code repository
@@ -20,7 +20,7 @@ sidebar-avatar: /img/about-HJ.jpg      # use absolute URL, seeing it's used in b
 RSS: false
 # weibo_username:     qiubaiying
 # zhihu_username:     qiubaiying
-github_username:      globien
+github_username:      Rick10119
 # facebook_username:  baiying.qiu.7
 # jianshu_username:   e71990ada2fd
 # twitter_username:   qiubaiying
@@ -64,9 +64,9 @@ gitalk:
   enable: true    #是否开启Gitalk评论
   clientID: 6a11cab9f46fe57e56a1                            #生成的clientID
   clientSecret: 27ac9ec88d1ecd4c819f7423c95b4ca66e54156a    #生成的clientSecret
-  repo:  globien.github.io    #仓库名称
-  owner: globien    #github用户名
-  admin: globien
+  repo:  Rick10119.github.io    #仓库名称
+  owner: Rick10119    #github用户名
+  admin: Rick10119
   distractionFreeMode: true #是否启用类似FB的阴影遮罩
 
 
